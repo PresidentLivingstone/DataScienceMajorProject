@@ -48,4 +48,3 @@ Recognition I want to thank Kaggle, the agricultural research community, farmers
 # Contact
 For any inquiries or questions, please contact me@
 mazvoverelivingstone@gmail.com
-# DataScienceMajorProject
